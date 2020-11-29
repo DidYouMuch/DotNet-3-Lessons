@@ -1,0 +1,2 @@
+# Ignore directories w/ name "test"
+test/
