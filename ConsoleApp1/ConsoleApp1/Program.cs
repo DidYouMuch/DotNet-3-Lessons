@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _29._11._2020
+namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-
-
         }
     }
 }
