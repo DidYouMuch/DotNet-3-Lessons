@@ -1,2 +1,2 @@
-# test-CSharp-Repo
+# DotNet-3-Lessons
 something desc
